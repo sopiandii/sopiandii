@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sopiandii
 - 👀 I’m interested in Web Programming
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning Backend Development
 - 💞️ I’m looking to collaborate on learning
 - 📫 How to reach me ekosopiandi.idris@gmail.com
 
